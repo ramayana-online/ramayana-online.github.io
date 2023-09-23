@@ -1,4 +1,4 @@
 {
-    "search_server": "https://aasi.pythonanywhere.com/api/search",
-    "translate_server": "https://aasi.pythonanywhere.com/api/translate"
+    "search_server": "http://localho.st:5000/api/search",
+    "translate_server": "http://localho.st:5000/api/translate"
 }
